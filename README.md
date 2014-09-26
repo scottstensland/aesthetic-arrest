@@ -1,4 +1,6 @@
 aesthetic-arrest
 ================
 
-playground
+just a playground for some webgl ideas ... casual animation
+
+
