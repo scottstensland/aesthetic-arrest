@@ -1,6 +1,10 @@
 aesthetic-arrest
 ================
 
-just a playground for some webgl ideas ... casual animation
+
+## Introduction
+
+- self assembled organically inspired morphology, webgl graphics, web audio 
+
 
 
